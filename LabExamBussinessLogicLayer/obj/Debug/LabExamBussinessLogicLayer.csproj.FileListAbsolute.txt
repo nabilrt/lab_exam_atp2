@@ -1,0 +1,17 @@
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\LabExamBussinessLogicLayer.dll.config
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\LabExamBussinessLogicLayer.dll
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\LabExamBussinessLogicLayer.pdb
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\LabExamDataAccessLayer.dll
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\LabExamDataAccessLayer.pdb
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\LabExamDataAccessLayer.dll.config
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\obj\Debug\LabExamBussinessLogicLayer.csproj.AssemblyReference.cache
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\obj\Debug\LabExamBussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\obj\Debug\LabExamBussinessLogicLayer.csproj.CopyComplete
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\obj\Debug\LabExamBussinessLogicLayer.dll
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\obj\Debug\LabExamBussinessLogicLayer.pdb
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\AutoMapper.dll
+D:\.NET\LabExamAPI\LabExamBussinessLogicLayer\bin\Debug\AutoMapper.xml

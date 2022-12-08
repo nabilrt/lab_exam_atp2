@@ -1,0 +1,14 @@
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\LabExamDataAccessLayer.dll.config
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\LabExamDataAccessLayer.dll
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\LabExamDataAccessLayer.pdb
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.csproj.AssemblyReference.cache
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.csproj.CopyComplete
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.dll
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.pdb
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.Migrations.UserandTokenTableCreated.resources
+D:\.NET\LabExamAPI\LabExamDataAccessLayer\obj\Debug\LabExamDataAccessLayer.csproj.GenerateResource.cache
